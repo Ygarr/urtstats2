@@ -1,0 +1,7 @@
+./urt-stats-admin.sh delplayer 8
+./urt-stats-admin.sh delplayer 9
+./urt-stats-admin.sh delplayer 10
+./urt-stats-admin.sh delplayer 11
+./urt-stats-admin.sh delplayer 12
+./urt-stats-admin.sh delplayer 13
+./urt-stats-admin.sh delplayer 14

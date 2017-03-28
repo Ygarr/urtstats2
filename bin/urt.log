@@ -1,0 +1,746 @@
+14.03.20 17:42:27.693  INFO [main] UrTStatsAdmin : Batch import started.
+14.03.20 17:42:27.711  INFO [main] UrTStatsAdmin : Processing file 1 / 92
+14.03.20 17:42:27.728  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0011_games.log' started.
+14.03.20 17:42:27.988 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:27.990 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:27.990  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 260
+14.03.20 17:42:27.990  INFO [main] UrTLogParser : 
+14.03.20 17:42:28.225  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:28.433  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 208
+14.03.20 17:42:28.442  INFO [main] UrTStatsAdmin : Processing file 2 / 92
+14.03.20 17:42:28.443  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0012_games.log' started.
+14.03.20 17:42:28.466 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:28.467 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:28.467  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 24
+14.03.20 17:42:28.475  INFO [main] UrTLogParser : 
+14.03.20 17:42:28.476  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:28.540  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 64
+14.03.20 17:42:28.550  INFO [main] UrTStatsAdmin : Processing file 3 / 92
+14.03.20 17:42:28.550  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0015_games.log' started.
+14.03.20 17:42:28.552  WARN [main] UrTLogParser : Failed to parse player client UID. Line: 8
+14.03.20 17:42:28.553  WARN [main] UrTLogParser : Failed to parse player client UID. Line: 13
+14.03.20 17:42:28.553  WARN [main] UrTLogParser : Failed to parse player client UID. Line: 18
+14.03.20 17:42:28.553  WARN [main] UrTLogParser : Failed to parse player client UID. Line: 23
+14.03.20 17:42:28.553  WARN [main] UrTLogParser : Failed to parse player client UID. Line: 28
+14.03.20 17:42:28.619 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:28.619 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:28.619  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 68
+14.03.20 17:42:28.619  INFO [main] UrTLogParser : 
+14.03.20 17:42:28.620  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:28.766  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 146
+14.03.20 17:42:28.775  INFO [main] UrTStatsAdmin : Processing file 4 / 92
+14.03.20 17:42:28.776  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0020_games.log' started.
+14.03.20 17:42:28.796 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:28.796 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:28.796  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 20
+14.03.20 17:42:28.796  INFO [main] UrTLogParser : 
+14.03.20 17:42:28.797  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:28.852  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 55
+14.03.20 17:42:28.860  INFO [main] UrTStatsAdmin : Processing file 5 / 92
+14.03.20 17:42:28.862  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0022_games.log' started.
+14.03.20 17:42:28.871 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:28.872 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:28.873  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 10
+14.03.20 17:42:28.873  INFO [main] UrTLogParser : 
+14.03.20 17:42:28.874  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:28.941  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 67
+14.03.20 17:42:28.953  INFO [main] UrTStatsAdmin : Processing file 6 / 92
+14.03.20 17:42:28.954  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0023_games.log' started.
+14.03.20 17:42:28.999 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:29.00 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:29.01  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 45
+14.03.20 17:42:29.01  INFO [main] UrTLogParser : 
+14.03.20 17:42:29.02  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:29.72  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 70
+14.03.20 17:42:29.86  INFO [main] UrTStatsAdmin : Processing file 7 / 92
+14.03.20 17:42:29.88  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0057_games.log' started.
+14.03.20 17:42:29.117 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:29.119 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:29.119  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 30
+14.03.20 17:42:29.120  INFO [main] UrTLogParser : 
+14.03.20 17:42:29.121  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:29.224  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 103
+14.03.20 17:42:29.240  INFO [main] UrTStatsAdmin : Processing file 8 / 92
+14.03.20 17:42:29.241  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0079_games.log' started.
+14.03.20 17:42:29.281 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:29.283 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:29.284  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 42
+14.03.20 17:42:29.285  INFO [main] UrTLogParser : 
+14.03.20 17:42:29.286  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:29.398  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 112
+14.03.20 17:42:29.419  INFO [main] UrTStatsAdmin : Processing file 9 / 92
+14.03.20 17:42:29.419  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0080_games.log' started.
+14.03.20 17:42:29.453 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:29.454 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:29.454  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 34
+14.03.20 17:42:29.454  INFO [main] UrTLogParser : 
+14.03.20 17:42:29.455  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:29.568  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 113
+14.03.20 17:42:29.578  INFO [main] UrTStatsAdmin : Processing file 10 / 92
+14.03.20 17:42:29.578  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0083_games.log' started.
+14.03.20 17:42:29.621 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:29.627 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:29.628  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 50
+14.03.20 17:42:29.628  INFO [main] UrTLogParser : 
+14.03.20 17:42:29.628  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:29.745  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 117
+14.03.20 17:42:29.761  INFO [main] UrTStatsAdmin : Processing file 11 / 92
+14.03.20 17:42:29.761  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0084_games.log' started.
+14.03.20 17:42:29.831 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:29.832 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:29.833  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 71
+14.03.20 17:42:29.839  INFO [main] UrTLogParser : 
+14.03.20 17:42:29.840  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:29.969  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 129
+14.03.20 17:42:29.978  INFO [main] UrTStatsAdmin : Processing file 12 / 92
+14.03.20 17:42:29.978  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0109_games.log' started.
+14.03.20 17:42:29.994 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:30.16 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:30.16  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 37
+14.03.20 17:42:30.16  INFO [main] UrTLogParser : 
+14.03.20 17:42:30.17  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:30.142  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 125
+14.03.20 17:42:30.145  INFO [main] UrTStatsAdmin : Processing file 13 / 92
+14.03.20 17:42:30.145  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0111_games.log' started.
+14.03.20 17:42:30.165 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:30.177 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:30.178  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 31
+14.03.20 17:42:30.178  INFO [main] UrTLogParser : 
+14.03.20 17:42:30.178  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:30.302  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 124
+14.03.20 17:42:30.356  INFO [main] UrTStatsAdmin : Processing file 14 / 92
+14.03.20 17:42:30.356  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0112_games.log' started.
+14.03.20 17:42:30.365 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:30.375 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:30.375  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 19
+14.03.20 17:42:30.375  INFO [main] UrTLogParser : 
+14.03.20 17:42:30.376  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:30.486  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 110
+14.03.20 17:42:30.504  INFO [main] UrTStatsAdmin : Processing file 15 / 92
+14.03.20 17:42:30.504  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0131_games.log' started.
+14.03.20 17:42:30.509 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:30.509 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:30.509  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 05
+14.03.20 17:42:30.509  INFO [main] UrTLogParser : 
+14.03.20 17:42:30.510  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:30.611  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 102
+14.03.20 17:42:30.621  INFO [main] UrTStatsAdmin : Processing file 16 / 92
+14.03.20 17:42:30.621  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0132_games.log' started.
+14.03.20 17:42:30.627  WARN [main] UrTLogParser : Unknown weapon: 'by MOD_TRIGGER_HURT'
+14.03.20 17:42:30.655 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:30.655 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:30.655  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 34
+14.03.20 17:42:30.659  INFO [main] UrTLogParser : 
+14.03.20 17:42:30.661  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:30.775  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 114
+14.03.20 17:42:30.779  INFO [main] UrTStatsAdmin : Processing file 17 / 92
+14.03.20 17:42:30.779  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0139_games.log' started.
+14.03.20 17:42:30.784 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:30.785 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:30.785  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 05
+14.03.20 17:42:30.785  INFO [main] UrTLogParser : 
+14.03.20 17:42:30.786  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:30.875  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 89
+14.03.20 17:42:30.879  INFO [main] UrTStatsAdmin : Processing file 18 / 92
+14.03.20 17:42:30.880  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0141_games.log' started.
+14.03.20 17:42:30.894  WARN [main] UrTLogParser : Failed to parse player name. Line: 17
+14.03.20 17:42:30.899 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:30.907 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:30.908  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 28
+14.03.20 17:42:30.908  INFO [main] UrTLogParser : 
+14.03.20 17:42:30.913  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:30.972  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 59
+14.03.20 17:42:30.988  INFO [main] UrTStatsAdmin : Processing file 19 / 92
+14.03.20 17:42:30.988  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0145_games.log' started.
+14.03.20 17:42:30.994 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:30.994 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:30.994  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 06
+14.03.20 17:42:30.995  INFO [main] UrTLogParser : 
+14.03.20 17:42:30.995  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:31.43  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 48
+14.03.20 17:42:31.46  INFO [main] UrTStatsAdmin : Processing file 20 / 92
+14.03.20 17:42:31.47  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0170_games.log' started.
+14.03.20 17:42:31.75 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:31.76 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:31.77  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 30
+14.03.20 17:42:31.78  INFO [main] UrTLogParser : 
+14.03.20 17:42:31.79  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:31.135  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 56
+14.03.20 17:42:31.147  INFO [main] UrTStatsAdmin : Processing file 21 / 92
+14.03.20 17:42:31.147  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0171_games.log' started.
+14.03.20 17:42:31.170 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:31.171 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:31.172  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 22
+14.03.20 17:42:31.172  INFO [main] UrTLogParser : 
+14.03.20 17:42:31.173  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:31.237  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 64
+14.03.20 17:42:31.247  INFO [main] UrTStatsAdmin : Processing file 22 / 92
+14.03.20 17:42:31.248  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0195_games.log' started.
+14.03.20 17:42:31.254 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:31.255 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:31.255  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 06
+14.03.20 17:42:31.255  INFO [main] UrTLogParser : 
+14.03.20 17:42:31.257  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:31.300  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 43
+14.03.20 17:42:31.305  INFO [main] UrTStatsAdmin : Processing file 23 / 92
+14.03.20 17:42:31.306  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0198_games.log' started.
+14.03.20 17:42:31.324 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:31.325 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:31.325  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 19
+14.03.20 17:42:31.332  INFO [main] UrTLogParser : 
+14.03.20 17:42:31.333  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:31.417  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 84
+14.03.20 17:42:31.422  INFO [main] UrTStatsAdmin : Processing file 24 / 92
+14.03.20 17:42:31.422  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0199_games.log' started.
+14.03.20 17:42:31.467 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:31.468 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:31.468  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 45
+14.03.20 17:42:31.468  INFO [main] UrTLogParser : 
+14.03.20 17:42:31.470  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:31.571  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 101
+14.03.20 17:42:31.589  INFO [main] UrTStatsAdmin : Processing file 25 / 92
+14.03.20 17:42:31.589  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0201_games.log' started.
+14.03.20 17:42:31.598 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:31.598 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:31.598  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 08
+14.03.20 17:42:31.598  INFO [main] UrTLogParser : 
+14.03.20 17:42:31.615  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:31.696  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 80
+14.03.20 17:42:31.706  INFO [main] UrTStatsAdmin : Processing file 26 / 92
+14.03.20 17:42:31.706  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0203_games.log' started.
+14.03.20 17:42:31.733 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:31.743 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:31.744  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 38
+14.03.20 17:42:31.744  INFO [main] UrTLogParser : 
+14.03.20 17:42:31.744  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:31.847  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 103
+14.03.20 17:42:31.856  INFO [main] UrTStatsAdmin : Processing file 27 / 92
+14.03.20 17:42:31.856  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0204_games.log' started.
+14.03.20 17:42:31.909 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:31.909 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:31.909  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 52
+14.03.20 17:42:31.910  INFO [main] UrTLogParser : 
+14.03.20 17:42:31.910  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:32.16  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 106
+14.03.20 17:42:32.23  INFO [main] UrTStatsAdmin : Processing file 28 / 92
+14.03.20 17:42:32.23  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0206_games.log' started.
+14.03.20 17:42:32.42 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:32.42 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:32.43  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 19
+14.03.20 17:42:32.43  INFO [main] UrTLogParser : 
+14.03.20 17:42:32.43  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:32.145  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 102
+14.03.20 17:42:32.157  INFO [main] UrTStatsAdmin : Processing file 29 / 92
+14.03.20 17:42:32.157  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0212_games.log' started.
+14.03.20 17:42:32.178 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:32.179 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:32.183  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 26
+14.03.20 17:42:32.183  INFO [main] UrTLogParser : 
+14.03.20 17:42:32.184  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:32.299  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 115
+14.03.20 17:42:32.315  INFO [main] UrTStatsAdmin : Processing file 30 / 92
+14.03.20 17:42:32.315  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0213_games.log' started.
+14.03.20 17:42:32.338 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:32.338 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:32.339  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 23
+14.03.20 17:42:32.339  INFO [main] UrTLogParser : 
+14.03.20 17:42:32.339  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:32.423  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 84
+14.03.20 17:42:32.432  INFO [main] UrTStatsAdmin : Processing file 31 / 92
+14.03.20 17:42:32.432  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0219_games.log' started.
+14.03.20 17:42:32.446 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:32.447 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:32.448  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 15
+14.03.20 17:42:32.449  INFO [main] UrTLogParser : 
+14.03.20 17:42:32.451  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:32.522  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 71
+14.03.20 17:42:32.532  INFO [main] UrTStatsAdmin : Processing file 32 / 92
+14.03.20 17:42:32.533  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0225_games.log' started.
+14.03.20 17:42:32.539 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:32.540 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:32.540  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 07
+14.03.20 17:42:32.541  INFO [main] UrTLogParser : 
+14.03.20 17:42:32.542  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:32.632  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 89
+14.03.20 17:42:32.641  INFO [main] UrTStatsAdmin : Processing file 33 / 92
+14.03.20 17:42:32.641  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0226_games.log' started.
+14.03.20 17:42:32.646 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:32.646 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:32.646  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 05
+14.03.20 17:42:32.647  INFO [main] UrTLogParser : 
+14.03.20 17:42:32.647  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:32.701  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 54
+14.03.20 17:42:32.708  INFO [main] UrTStatsAdmin : Processing file 34 / 92
+14.03.20 17:42:32.708  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0227_games.log' started.
+14.03.20 17:42:32.735 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:32.736 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:32.736  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 27
+14.03.20 17:42:32.736  INFO [main] UrTLogParser : 
+14.03.20 17:42:32.737  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:32.799  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 62
+14.03.20 17:42:32.824  INFO [main] UrTStatsAdmin : Processing file 35 / 92
+14.03.20 17:42:32.825  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0229_games.log' started.
+14.03.20 17:42:32.835 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:32.836 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:32.836  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 10
+14.03.20 17:42:32.836  INFO [main] UrTLogParser : 
+14.03.20 17:42:32.838  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:32.893  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 55
+14.03.20 17:42:32.898  INFO [main] UrTStatsAdmin : Processing file 36 / 92
+14.03.20 17:42:32.898  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0235_games.log' started.
+14.03.20 17:42:32.900  WARN [main] UrTLogParser : Attacker is undefined, skipping hit. Line: 293
+14.03.20 17:42:32.900  WARN [main] UrTLogParser : Attacker is undefined, skipping hit. Line: 296
+14.03.20 17:42:32.900  WARN [main] UrTLogParser : Attacker is undefined, skipping hit. Line: 297
+14.03.20 17:42:32.901  WARN [main] UrTLogParser : Attacker is undefined, skipping hit. Line: 298
+14.03.20 17:42:32.901  WARN [main] UrTLogParser : Attacker is undefined, skipping hit. Line: 299
+14.03.20 17:42:32.901  WARN [main] UrTLogParser : Attacker is undefined, skipping hit. Line: 300
+14.03.20 17:42:32.915 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:32.920 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:32.920  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 21
+14.03.20 17:42:32.920  INFO [main] UrTLogParser : 
+14.03.20 17:42:32.921  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:33.11  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 90
+14.03.20 17:42:33.15  INFO [main] UrTStatsAdmin : Processing file 37 / 92
+14.03.20 17:42:33.15  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0241_games.log' started.
+14.03.20 17:42:33.21 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:33.31 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:33.32  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 17
+14.03.20 17:42:33.32  INFO [main] UrTLogParser : 
+14.03.20 17:42:33.32  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:33.107  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 75
+14.03.20 17:42:33.115  INFO [main] UrTStatsAdmin : Processing file 38 / 92
+14.03.20 17:42:33.115  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0250_games.log' started.
+14.03.20 17:42:33.119 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:33.119 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:33.119  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 04
+14.03.20 17:42:33.119  INFO [main] UrTLogParser : 
+14.03.20 17:42:33.120  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:33.185  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 65
+14.03.20 17:42:33.190  INFO [main] UrTStatsAdmin : Processing file 39 / 92
+14.03.20 17:42:33.190  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0254_games.log' started.
+14.03.20 17:42:33.198 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:33.207 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:33.208  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 18
+14.03.20 17:42:33.208  INFO [main] UrTLogParser : 
+14.03.20 17:42:33.208  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:33.266  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 58
+14.03.20 17:42:33.274  INFO [main] UrTStatsAdmin : Processing file 40 / 92
+14.03.20 17:42:33.274  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0262_games.log' started.
+14.03.20 17:42:33.278 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:33.279 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:33.279  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 05
+14.03.20 17:42:33.279  INFO [main] UrTLogParser : 
+14.03.20 17:42:33.279  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:33.329  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 50
+14.03.20 17:42:33.332  INFO [main] UrTStatsAdmin : Processing file 41 / 92
+14.03.20 17:42:33.332  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0264_games.log' started.
+14.03.20 17:42:33.342 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:33.347 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:33.347  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 15
+14.03.20 17:42:33.347  INFO [main] UrTLogParser : 
+14.03.20 17:42:33.348  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:33.407  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 59
+14.03.20 17:42:33.416  INFO [main] UrTStatsAdmin : Processing file 42 / 92
+14.03.20 17:42:33.416  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0267_games.log' started.
+14.03.20 17:42:33.440 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:33.440 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:33.440  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 24
+14.03.20 17:42:33.440  INFO [main] UrTLogParser : 
+14.03.20 17:42:33.441  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:33.512  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 71
+14.03.20 17:42:33.517  INFO [main] UrTStatsAdmin : Processing file 43 / 92
+14.03.20 17:42:33.517  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0268_games.log' started.
+14.03.20 17:42:33.521 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:33.521 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:33.521  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 04
+14.03.20 17:42:33.521  INFO [main] UrTLogParser : 
+14.03.20 17:42:33.522  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:33.567  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 45
+14.03.20 17:42:33.584  INFO [main] UrTStatsAdmin : Processing file 44 / 92
+14.03.20 17:42:33.584  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0272_games.log' started.
+14.03.20 17:42:33.599 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:33.599 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:33.600  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 16
+14.03.20 17:42:33.600  INFO [main] UrTLogParser : 
+14.03.20 17:42:33.600  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:33.678  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 78
+14.03.20 17:42:33.684  INFO [main] UrTStatsAdmin : Processing file 45 / 92
+14.03.20 17:42:33.684  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0276_games.log' started.
+14.03.20 17:42:33.719 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:33.719 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:33.719  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 34
+14.03.20 17:42:33.720  INFO [main] UrTLogParser : 
+14.03.20 17:42:33.720  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:33.797  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 77
+14.03.20 17:42:33.801  INFO [main] UrTStatsAdmin : Processing file 46 / 92
+14.03.20 17:42:33.801  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0278_games.log' started.
+14.03.20 17:42:33.805  WARN [main] UrTLogParser : Unknown weapon: 'by UT_MOD_NUKED'
+14.03.20 17:42:33.805 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:33.805 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:33.805  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 03
+14.03.20 17:42:33.805  INFO [main] UrTLogParser : 
+14.03.20 17:42:33.806  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:33.889  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 83
+14.03.20 17:42:33.893  INFO [main] UrTStatsAdmin : Processing file 47 / 92
+14.03.20 17:42:33.893  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0310_games.log' started.
+14.03.20 17:42:33.899 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:33.903 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:33.903  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 10
+14.03.20 17:42:33.904  INFO [main] UrTLogParser : 
+14.03.20 17:42:33.904  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:33.964  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 60
+14.03.20 17:42:33.968  INFO [main] UrTStatsAdmin : Processing file 48 / 92
+14.03.20 17:42:33.968  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0312_games.log' started.
+14.03.20 17:42:33.973 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:33.973 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:33.973  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 05
+14.03.20 17:42:33.973  INFO [main] UrTLogParser : 
+14.03.20 17:42:33.974  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:34.66  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 91
+14.03.20 17:42:34.68  INFO [main] UrTStatsAdmin : Processing file 49 / 92
+14.03.20 17:42:34.68  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0313_games.log' started.
+14.03.20 17:42:34.75 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:34.84 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:34.85  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 16
+14.03.20 17:42:34.85  INFO [main] UrTLogParser : 
+14.03.20 17:42:34.86  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:34.181  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 95
+14.03.20 17:42:34.185  INFO [main] UrTStatsAdmin : Processing file 50 / 92
+14.03.20 17:42:34.185  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0315_games.log' started.
+14.03.20 17:42:34.190 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:34.190 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:34.191  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 05
+14.03.20 17:42:34.191  INFO [main] UrTLogParser : 
+14.03.20 17:42:34.191  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:34.277  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 86
+14.03.20 17:42:34.285  INFO [main] UrTStatsAdmin : Processing file 51 / 92
+14.03.20 17:42:34.285  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0316_games.log' started.
+14.03.20 17:42:34.287 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:34.288 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:34.288  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 02
+14.03.20 17:42:34.288  INFO [main] UrTLogParser : 
+14.03.20 17:42:34.288  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:34.373  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 85
+14.03.20 17:42:34.387  INFO [main] UrTStatsAdmin : Processing file 52 / 92
+14.03.20 17:42:34.387  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0324_games.log' started.
+14.03.20 17:42:34.388 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:34.388 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:34.388  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 01
+14.03.20 17:42:34.388  INFO [main] UrTLogParser : 
+14.03.20 17:42:34.389  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:34.434  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 45
+14.03.20 17:42:34.444  INFO [main] UrTStatsAdmin : Processing file 53 / 92
+14.03.20 17:42:34.444  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0327_games.log' started.
+14.03.20 17:42:34.446 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:34.447 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:34.447  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 03
+14.03.20 17:42:34.447  INFO [main] UrTLogParser : 
+14.03.20 17:42:34.447  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:34.519  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 72
+14.03.20 17:42:34.527  INFO [main] UrTStatsAdmin : Processing file 54 / 92
+14.03.20 17:42:34.528  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0361_games.log' started.
+14.03.20 17:42:34.534 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:34.535 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:34.535  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 07
+14.03.20 17:42:34.535  INFO [main] UrTLogParser : 
+14.03.20 17:42:34.536  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:34.591  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 55
+14.03.20 17:42:34.605  INFO [main] UrTStatsAdmin : Processing file 55 / 92
+14.03.20 17:42:34.605  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0365_games.log' started.
+14.03.20 17:42:34.609 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:34.610 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:34.611  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 06
+14.03.20 17:42:34.612  INFO [main] UrTLogParser : 
+14.03.20 17:42:34.613  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:34.681  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 68
+14.03.20 17:42:34.686  INFO [main] UrTStatsAdmin : Processing file 56 / 92
+14.03.20 17:42:34.687  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0367_games.log' started.
+14.03.20 17:42:34.693 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:34.693 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:34.694  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 06
+14.03.20 17:42:34.694  INFO [main] UrTLogParser : 
+14.03.20 17:42:34.694  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:34.729  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 35
+14.03.20 17:42:34.736  INFO [main] UrTStatsAdmin : Processing file 57 / 92
+14.03.20 17:42:34.736  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0368_games.log' started.
+14.03.20 17:42:34.739 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:34.739 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:34.739  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 03
+14.03.20 17:42:34.739  INFO [main] UrTLogParser : 
+14.03.20 17:42:34.740  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:34.781  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 41
+14.03.20 17:42:34.786  INFO [main] UrTStatsAdmin : Processing file 58 / 92
+14.03.20 17:42:34.786  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0371_games.log' started.
+14.03.20 17:42:34.788 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:34.789 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:34.789  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 02
+14.03.20 17:42:34.789  INFO [main] UrTLogParser : 
+14.03.20 17:42:34.789  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:34.819  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 29
+14.03.20 17:42:34.828  INFO [main] UrTStatsAdmin : Processing file 59 / 92
+14.03.20 17:42:34.828  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0373_games.log' started.
+14.03.20 17:42:34.833 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:34.833 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:34.833  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 04
+14.03.20 17:42:34.833  INFO [main] UrTLogParser : 
+14.03.20 17:42:34.834  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:34.877  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 43
+14.03.20 17:42:34.887  INFO [main] UrTStatsAdmin : Processing file 60 / 92
+14.03.20 17:42:34.887  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0374_games.log' started.
+14.03.20 17:42:34.892 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:34.893 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:34.894  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 07
+14.03.20 17:42:34.894  INFO [main] UrTLogParser : 
+14.03.20 17:42:34.895  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:34.938  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 42
+14.03.20 17:42:34.945  INFO [main] UrTStatsAdmin : Processing file 61 / 92
+14.03.20 17:42:34.945  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0377_games.log' started.
+14.03.20 17:42:34.949 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:34.950 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:34.950  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 04
+14.03.20 17:42:34.950  INFO [main] UrTLogParser : 
+14.03.20 17:42:34.950  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:34.993  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 43
+14.03.20 17:42:34.995  INFO [main] UrTStatsAdmin : Processing file 62 / 92
+14.03.20 17:42:34.995  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0380_games.log' started.
+14.03.20 17:42:34.998 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:34.999 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:34.999  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 03
+14.03.20 17:42:34.999  INFO [main] UrTLogParser : 
+14.03.20 17:42:35.00  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:35.31  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 31
+14.03.20 17:42:35.37  INFO [main] UrTStatsAdmin : Processing file 63 / 92
+14.03.20 17:42:35.37  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0381_games.log' started.
+14.03.20 17:42:35.42 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:35.42 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:35.42  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 04
+14.03.20 17:42:35.42  INFO [main] UrTLogParser : 
+14.03.20 17:42:35.43  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:35.88  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 45
+14.03.20 17:42:35.96  INFO [main] UrTStatsAdmin : Processing file 64 / 92
+14.03.20 17:42:35.96  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0385_games.log' started.
+14.03.20 17:42:35.105 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:35.106 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:35.106  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 10
+14.03.20 17:42:35.106  INFO [main] UrTLogParser : 
+14.03.20 17:42:35.107  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:35.155  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 48
+14.03.20 17:42:35.162  INFO [main] UrTStatsAdmin : Processing file 65 / 92
+14.03.20 17:42:35.163  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0386_games.log' started.
+14.03.20 17:42:35.167 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:35.168 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:35.168  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 04
+14.03.20 17:42:35.169  INFO [main] UrTLogParser : 
+14.03.20 17:42:35.170  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:35.212  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 42
+14.03.20 17:42:35.287  INFO [main] UrTStatsAdmin : Processing file 66 / 92
+14.03.20 17:42:35.287  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0388_games.log' started.
+14.03.20 17:42:35.289 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:35.290 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:35.290  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 03
+14.03.20 17:42:35.290  INFO [main] UrTLogParser : 
+14.03.20 17:42:35.291  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:35.349  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 58
+14.03.20 17:42:35.438  INFO [main] UrTStatsAdmin : Processing file 67 / 92
+14.03.20 17:42:35.438  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0398_games.log' started.
+14.03.20 17:42:35.445 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:35.445 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:35.445  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 06
+14.03.20 17:42:35.446  INFO [main] UrTLogParser : 
+14.03.20 17:42:35.446  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:35.524  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 78
+14.03.20 17:42:35.530  INFO [main] UrTStatsAdmin : Processing file 68 / 92
+14.03.20 17:42:35.531  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0403_games.log' started.
+14.03.20 17:42:35.543 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:35.545 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:35.546  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 12
+14.03.20 17:42:35.546  INFO [main] UrTLogParser : 
+14.03.20 17:42:35.549  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:35.623  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 74
+14.03.20 17:42:35.638  INFO [main] UrTStatsAdmin : Processing file 69 / 92
+14.03.20 17:42:35.639  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0407_games.log' started.
+14.03.20 17:42:35.648 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:35.649 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:35.649  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 10
+14.03.20 17:42:35.656  INFO [main] UrTLogParser : 
+14.03.20 17:42:35.657  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:35.776  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 119
+14.03.20 17:42:35.780  INFO [main] UrTStatsAdmin : Processing file 70 / 92
+14.03.20 17:42:35.780  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0409_games.log' started.
+14.03.20 17:42:35.784 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:35.784 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:35.784  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 04
+14.03.20 17:42:35.784  INFO [main] UrTLogParser : 
+14.03.20 17:42:35.785  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:35.865  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 80
+14.03.20 17:42:35.872  INFO [main] UrTStatsAdmin : Processing file 71 / 92
+14.03.20 17:42:35.872  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0415_games.log' started.
+14.03.20 17:42:35.875 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:35.878 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:35.879  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 07
+14.03.20 17:42:35.879  INFO [main] UrTLogParser : 
+14.03.20 17:42:35.879  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:35.920  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 41
+14.03.20 17:42:35.930  INFO [main] UrTStatsAdmin : Processing file 72 / 92
+14.03.20 17:42:35.931  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0417_games.log' started.
+14.03.20 17:42:35.935 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:35.936 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:35.936  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 04
+14.03.20 17:42:35.937  INFO [main] UrTLogParser : 
+14.03.20 17:42:35.938  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:35.984  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 46
+14.03.20 17:42:35.989  INFO [main] UrTStatsAdmin : Processing file 73 / 92
+14.03.20 17:42:35.990  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0421_games.log' started.
+14.03.20 17:42:35.992 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:35.993 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:35.993  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 03
+14.03.20 17:42:35.994  INFO [main] UrTLogParser : 
+14.03.20 17:42:35.995  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:36.33  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 38
+14.03.20 17:42:36.39  INFO [main] UrTStatsAdmin : Processing file 74 / 92
+14.03.20 17:42:36.39  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0430_games.log' started.
+14.03.20 17:42:36.43 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:36.44 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:36.44  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 04
+14.03.20 17:42:36.44  INFO [main] UrTLogParser : 
+14.03.20 17:42:36.44  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:36.81  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 37
+14.03.20 17:42:36.89  INFO [main] UrTStatsAdmin : Processing file 75 / 92
+14.03.20 17:42:36.89  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0477_games.log' started.
+14.03.20 17:42:36.94 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:36.95 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:36.95  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 05
+14.03.20 17:42:36.96  INFO [main] UrTLogParser : 
+14.03.20 17:42:36.97  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:36.139  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 42
+14.03.20 17:42:36.157  INFO [main] UrTStatsAdmin : Processing file 76 / 92
+14.03.20 17:42:36.157  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0482_games.log' started.
+14.03.20 17:42:36.162 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:36.162 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:36.162  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 04
+14.03.20 17:42:36.163  INFO [main] UrTLogParser : 
+14.03.20 17:42:36.163  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:36.223  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 60
+14.03.20 17:42:36.231  INFO [main] UrTStatsAdmin : Processing file 77 / 92
+14.03.20 17:42:36.231  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0485_games.log' started.
+14.03.20 17:42:36.234 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:36.235 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:36.235  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 03
+14.03.20 17:42:36.239  INFO [main] UrTLogParser : 
+14.03.20 17:42:36.240  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:36.281  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 41
+14.03.20 17:42:36.290  INFO [main] UrTStatsAdmin : Processing file 78 / 92
+14.03.20 17:42:36.290  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0487_games.log' started.
+14.03.20 17:42:36.293 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:36.294 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:36.294  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 04
+14.03.20 17:42:36.294  INFO [main] UrTLogParser : 
+14.03.20 17:42:36.295  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:36.350  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 54
+14.03.20 17:42:36.356  INFO [main] UrTStatsAdmin : Processing file 79 / 92
+14.03.20 17:42:36.357  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0490_games.log' started.
+14.03.20 17:42:36.361 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:36.362 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:36.362  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 05
+14.03.20 17:42:36.362  INFO [main] UrTLogParser : 
+14.03.20 17:42:36.363  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:36.413  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 50
+14.03.20 17:42:36.423  INFO [main] UrTStatsAdmin : Processing file 80 / 92
+14.03.20 17:42:36.424  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0492_games.log' started.
+14.03.20 17:42:36.432 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:36.433 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:36.433  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 03
+14.03.20 17:42:36.433  INFO [main] UrTLogParser : 
+14.03.20 17:42:36.433  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:36.478  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 45
+14.03.20 17:42:36.482  INFO [main] UrTStatsAdmin : Processing file 81 / 92
+14.03.20 17:42:36.482  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0495_games.log' started.
+14.03.20 17:42:36.485 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:36.485 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:36.485  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 03
+14.03.20 17:42:36.485  INFO [main] UrTLogParser : 
+14.03.20 17:42:36.485  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:36.524  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 39
+14.03.20 17:42:36.532  INFO [main] UrTStatsAdmin : Processing file 82 / 92
+14.03.20 17:42:36.532  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0515_games.log' started.
+14.03.20 17:42:36.536 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:36.536 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:36.536  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 04
+14.03.20 17:42:36.536  INFO [main] UrTLogParser : 
+14.03.20 17:42:36.537  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:36.574  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 37
+14.03.20 17:42:36.582  INFO [main] UrTStatsAdmin : Processing file 83 / 92
+14.03.20 17:42:36.582  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0517_games.log' started.
+14.03.20 17:42:36.587 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:36.588 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:36.588  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 05
+14.03.20 17:42:36.588  INFO [main] UrTLogParser : 
+14.03.20 17:42:36.589  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:36.627  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 38
+14.03.20 17:42:36.632  INFO [main] UrTStatsAdmin : Processing file 84 / 92
+14.03.20 17:42:36.633  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0524_games.log' started.
+14.03.20 17:42:36.637 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:36.638 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:36.638  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 04
+14.03.20 17:42:36.639  INFO [main] UrTLogParser : 
+14.03.20 17:42:36.640  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:36.685  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 45
+14.03.20 17:42:36.692  INFO [main] UrTStatsAdmin : Processing file 85 / 92
+14.03.20 17:42:36.693  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0527_games.log' started.
+14.03.20 17:42:36.695 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:36.696 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:36.696  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 02
+14.03.20 17:42:36.697  INFO [main] UrTLogParser : 
+14.03.20 17:42:36.698  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:36.737  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 39
+14.03.20 17:42:36.750  INFO [main] UrTStatsAdmin : Processing file 86 / 92
+14.03.20 17:42:36.751  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0530_games.log' started.
+14.03.20 17:42:36.753 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:36.754 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:36.754  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 03
+14.03.20 17:42:36.754  INFO [main] UrTLogParser : 
+14.03.20 17:42:36.755  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:36.797  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 42
+14.03.20 17:42:36.801  INFO [main] UrTStatsAdmin : Processing file 87 / 92
+14.03.20 17:42:36.801  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0540_games.log' started.
+14.03.20 17:42:36.804 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:36.805 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:36.805  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 04
+14.03.20 17:42:36.805  INFO [main] UrTLogParser : 
+14.03.20 17:42:36.806  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:36.852  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 46
+14.03.20 17:42:36.859  INFO [main] UrTStatsAdmin : Processing file 88 / 92
+14.03.20 17:42:36.859  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0541_games.log' started.
+14.03.20 17:42:36.864 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:36.864 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:36.864  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 04
+14.03.20 17:42:36.864  INFO [main] UrTLogParser : 
+14.03.20 17:42:36.865  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:36.906  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 41
+14.03.20 17:42:36.909  INFO [main] UrTStatsAdmin : Processing file 89 / 92
+14.03.20 17:42:36.910  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0550_games.log' started.
+14.03.20 17:42:36.915 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:36.915 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:36.915  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 05
+14.03.20 17:42:36.916  INFO [main] UrTLogParser : 
+14.03.20 17:42:36.916  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:36.961  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 44
+14.03.20 17:42:36.968  INFO [main] UrTStatsAdmin : Processing file 90 / 92
+14.03.20 17:42:36.968  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0552_games.log' started.
+14.03.20 17:42:36.974 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:36.975 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:36.975  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 06
+14.03.20 17:42:36.975  INFO [main] UrTLogParser : 
+14.03.20 17:42:36.976  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:37.17  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 41
+14.03.20 17:42:37.26  INFO [main] UrTStatsAdmin : Processing file 91 / 92
+14.03.20 17:42:37.27  INFO [main] UrTLogParser : Parsing log file: '/home/ghost/projects/urt-stats/.unversioned/stats/0554_games.log' started.
+14.03.20 17:42:37.29 DEBUG [main] UrTLogParser : Geting time...
+14.03.20 17:42:37.29 DEBUG [main] UrTLogParser : Done
+14.03.20 17:42:37.29  INFO [main] UrTLogParser : Parsing log file finished. Execution time: 00:00:00 02
+14.03.20 17:42:37.29  INFO [main] UrTLogParser : 
+14.03.20 17:42:37.30  INFO [main] UrTStatsImportManagerImpl : DB import started...
+14.03.20 17:42:37.65  INFO [main] UrTStatsImportManagerImpl : DB import finished. Execution time: 00:00:00 35
+14.03.20 17:42:37.68  INFO [main] UrTStatsAdmin : Processing file 92 / 92
+14.03.20 17:42:37.68  INFO [main] UrTStatsAdmin : /home/ghost/projects/urt-stats/.unversioned/stats/unfair is a directory, skipping...
+14.03.20 17:42:37.68  INFO [main] UrTStatsAdmin : Batch import finished. Execution time: 00:00:09 357
